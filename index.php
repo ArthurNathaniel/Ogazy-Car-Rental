@@ -2,8 +2,7 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <?php include 'meta.php'; ?>
     <title>Home - Ogazy Car Rental</title>
     <?php include 'cdn.php'; ?>
     <link rel="stylesheet" href="./css/base.css">
@@ -31,10 +30,10 @@
             <div class="swiper mySwiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="./images/car-slide-1.png" alt="">
+                        <img src="https://www.cnet.com/a/img/resize/eeab2172c867951f7ef115b48836e1e691de3660/hub/2022/05/11/d5e39b3e-cca2-4355-9c8b-5c1b7ff331a0/ogi-2023-toyota-highlander-turbo-002-scaled.jpg?auto=webp&fit=crop&height=900&width=1200" alt="">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./images/car-slide-1.png" alt="">
+                        <img src="https://di-uploads-pod9.dealerinspire.com/paulytoyota/uploads/2023/01/Screenshot_2.jpg" alt="">
                     </div>
                 </div>
 
@@ -91,18 +90,18 @@
             </div>
             <div class="explore_grid">
                 <div class="explore_card">
-                    <div class="explore_car_image">
+                    <div class="explore_car_image" style="background-image: url(https://pbs.twimg.com/media/GI-OO7tWMAAHMl-?format=jpg&name=large);">
 
                     </div>
                     <div class="explore_details">
                         <div class="explore_car_title">
-                            <h3>Honda Accord 5 Seater Car</h3>
+                            <h3>Landcruiser V8</h3>
                         </div>
                         <div class="explore_price">
                             <h2>GHC 1000 <span>/day</span></h2>
                         </div>
                         <div class="explore_car_info">
-                            
+
                             <div class="transmission">
                                 <p>Auto</p>
                             </div>
@@ -119,105 +118,18 @@
                 </div>
 
                 <div class="explore_card">
-                    <div class="explore_car_image">
+                    <div class="explore_car_image" style="background-image: url(https://pbs.twimg.com/media/GI-dik4WwAAam5r?format=jpg&name=medium);">
 
                     </div>
                     <div class="explore_details">
                         <div class="explore_car_title">
-                            <h3>Honda Accord 5 Seater Car</h3>
+                            <h3>2017 Honda CR-V </h3>
                         </div>
                         <div class="explore_price">
                             <h2>GHC 1000 <span>/day</span></h2>
                         </div>
                         <div class="explore_car_info">
-                            
-                            <div class="transmission">
-                                <p>Auto</p>
-                            </div>
-                            <div class="transmission">
-                                <p>Petrol</p>
-                            </div>
-                        </div>
-                        <div class="explore_book">
-                            <button>
-                                <a href="reservation.php">MAKE RESERVATION</a>
 
-                            </button>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="explore_card">
-                    <div class="explore_car_image">
-
-                    </div>
-                    <div class="explore_details">
-                        <div class="explore_car_title">
-                            <h3>Honda Accord 5 Seater Car</h3>
-                        </div>
-                        <div class="explore_price">
-                            <h2>GHC 1000 <span>/day</span></h2>
-                        </div>
-                        <div class="explore_car_info">
-                            
-                            <div class="transmission">
-                                <p>Auto</p>
-                            </div>
-                            <div class="transmission">
-                                <p>Petrol</p>
-                            </div>
-                        </div>
-                        <div class="explore_book">
-                            <button>
-                                <a href="reservation.php">MAKE RESERVATION</a>
-
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div class="explore_card">
-                    <div class="explore_car_image">
-
-                    </div>
-                    <div class="explore_details">
-                        <div class="explore_car_title">
-                            <h3>Honda Accord 5 Seater Car</h3>
-                        </div>
-                        <div class="explore_price">
-                            <h2>GHC 1000 <span>/day</span></h2>
-                        </div>
-                        <div class="explore_car_info">
-                            
-                            <div class="transmission">
-                                <p>Auto</p>
-                            </div>
-                            <div class="transmission">
-                                <p>Petrol</p>
-                            </div>
-                        </div>
-                        <div class="explore_book">
-                            <button>
-                                <a href="reservation.php">MAKE RESERVATION</a>
-
-                            </button>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="explore_card">
-                    <div class="explore_car_image">
-
-                    </div>
-                    <div class="explore_details">
-                        <div class="explore_car_title">
-                            <h3>Honda Accord 5 Seater Car</h3>
-                        </div>
-                        <div class="explore_price">
-                            <h2>GHC 1000 <span>/day</span></h2>
-                        </div>
-                        <div class="explore_car_info">
-                            
                             <div class="transmission">
                                 <p>Auto</p>
                             </div>
@@ -236,18 +148,105 @@
 
 
                 <div class="explore_card">
-                    <div class="explore_car_image">
+                    <div class="explore_car_image" style="background-image: url(https://pbs.twimg.com/media/GJgIRgcWEAAk4eS?format=jpg&name=medium);">
 
                     </div>
                     <div class="explore_details">
                         <div class="explore_car_title">
-                            <h3>Honda Accord 5 Seater Car</h3>
+                            <h3>Range Rover Vogue HSE 2016</h3>
                         </div>
                         <div class="explore_price">
                             <h2>GHC 1000 <span>/day</span></h2>
                         </div>
                         <div class="explore_car_info">
-                            
+
+                            <div class="transmission">
+                                <p>Auto</p>
+                            </div>
+                            <div class="transmission">
+                                <p>Petrol</p>
+                            </div>
+                        </div>
+                        <div class="explore_book">
+                            <button>
+                                <a href="reservation.php">MAKE RESERVATION</a>
+
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="explore_card">
+                    <div class="explore_car_image" style="background-image: url(https://pbs.twimg.com/media/GJfy4o-WEAEMr5k?format=jpg&name=900x900);">
+
+                    </div>
+                    <div class="explore_details">
+                        <div class="explore_car_title">
+                            <h3>Land Rover Discovery 4</h3>
+                        </div>
+                        <div class="explore_price">
+                            <h2>GHC 1000 <span>/day</span></h2>
+                        </div>
+                        <div class="explore_car_info">
+
+                            <div class="transmission">
+                                <p>Auto</p>
+                            </div>
+                            <div class="transmission">
+                                <p>Petrol</p>
+                            </div>
+                        </div>
+                        <div class="explore_book">
+                            <button>
+                                <a href="reservation.php">MAKE RESERVATION</a>
+
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="explore_card">
+                    <div class="explore_car_image" style="background-image: url(https://pbs.twimg.com/media/GJREbhLWMAAvHeN?format=jpg&name=medium);">
+
+                    </div>
+                    <div class="explore_details">
+                        <div class="explore_car_title">
+                            <h3>Mercedes Benz G63</h3>
+                        </div>
+                        <div class="explore_price">
+                            <h2>GHC 1000 <span>/day</span></h2>
+                        </div>
+                        <div class="explore_car_info">
+
+                            <div class="transmission">
+                                <p>Auto</p>
+                            </div>
+                            <div class="transmission">
+                                <p>Petrol</p>
+                            </div>
+                        </div>
+                        <div class="explore_book">
+                            <button>
+                                <a href="reservation.php">MAKE RESERVATION</a>
+
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="explore_card">
+                    <div class="explore_car_image" style="background-image:url(https://pbs.twimg.com/media/GJcienfXUAAbfhy?format=jpg&name=medium);">
+
+                    </div>
+                    <div class="explore_details">
+                        <div class="explore_car_title">
+                            <h3>Mercedes-Benz GLK350 </h3>
+                        </div>
+                        <div class="explore_price">
+                            <h2>GHC 1000 <span>/day</span></h2>
+                        </div>
+                        <div class="explore_car_info">
+
                             <div class="transmission">
                                 <p>Auto</p>
                             </div>

@@ -2,8 +2,7 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <?php include 'meta.php'; ?>
     <title>About - Ogazy Car Rental</title>
     <?php include 'cdn.php'; ?>
     <link rel="stylesheet" href="./css/base.css">
@@ -22,7 +21,7 @@
 
     <section>
         <div class="about_aall">
-            <h1>About OGAZY CAR RENTAL</h1>
+            <h1>About OGAZY G. CAR RENTAL</h1>
             <p>
                 Located conveniently at the Kumasi Airport Roundabout near the DVLA Office, Ogazy G. Car Rental is your premier destination for reliable and efficient car rental services in Kumasi and its surroundings. With a commitment to excellence and a passion for delivering exceptional customer experiences, Ogazy G. Car Rental has established itself as a trusted name in the industry.
             </p>

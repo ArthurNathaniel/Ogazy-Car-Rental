@@ -2,8 +2,7 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <?php include 'meta.php'; ?>
     <title>Print Invoice</title>
     <?php include 'cdn.php'; ?>
     <link rel="stylesheet" href="./css/invoice.css">
@@ -30,7 +29,7 @@
         <i class="fa-solid fa-bars-staggered"></i>
     </button> -->
     <?php include 'sidebar.php'; ?>
-  
+
     <div class="all__grid">
         <?php
         // session_start();
@@ -54,7 +53,7 @@
         include 'db.php';
         // Retrieve invoices from database in descending order
         $sql = "SELECT * FROM invoices ORDER BY id DESC";
-     
+
         $result = $conn->query($sql);
 
         if ($result->num_rows > 0) {

@@ -3,8 +3,7 @@
 
 <head>
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <?php include 'meta.php'; ?>
     <title>View Booked Cars</title>
     <?php include 'cdn.php'; ?>
     <link rel="stylesheet" href="../css/sidebar.css">
@@ -46,9 +45,7 @@
                 <th>Color</th>
                 <th>Pickup Date</th>
                 <th>Return Date</th>
-                <th>Booking Name</th>
-                <th>Phone Number</th>
-                <th>Email Address</th>
+                
             </tr>
             <?php
             include 'db.php';
@@ -67,9 +64,6 @@
                     echo "<td>" . $row["color"] . "</td>";
                     echo "<td>" . $row["pickup_date"] . "</td>";
                     echo "<td>" . $row["return_date"] . "</td>";
-                    echo "<td>" . $row["name"] . "</td>";
-                    echo "<td>" . $row["phone"] . "</td>";
-                    echo "<td>" . $row["email"] . "</td>"; // Fixed typo here
                     echo "</tr>";
                 }
             } else {

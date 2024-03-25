@@ -1,4 +1,5 @@
 <?php
+                // session_start(); 
 include 'db.php';
 // If the form is submitted
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
@@ -40,8 +41,7 @@ mysqli_close($conn);
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <?php include 'meta.php'; ?>
     <title>Login - Ogazy Car Rental</title>
     <!-- Include any CSS files here -->
     <link rel="stylesheet" href="./css/sidebar.css">

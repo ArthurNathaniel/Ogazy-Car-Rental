@@ -17,3 +17,8 @@ toggleButton.addEventListener("click", function () {
     icon.classList.add("fa-bars-staggered");
   }
 });
+
+
+  //  var submitBtn = document.getElementById("submitBtn");
+  //  submitBtn.textContent = "Please wait...";
+  //  submitBtn.disabled = true;

@@ -33,6 +33,6 @@
 
 
     <div class="whatsapp_box">
-        <a href="" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+        <a href="https://wa.link/7cxxtb" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
     </div>
 </div>
