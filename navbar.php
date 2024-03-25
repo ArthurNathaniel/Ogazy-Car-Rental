@@ -1,4 +1,4 @@
-<div class="header_all">
+<!-- <div class="header_all">
     <div class="motto">
         <p>Ogazy Car Rental</p>
     </div>
@@ -7,7 +7,7 @@
         <a href="#" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
         <a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a>
     </div>
-</div>
+</div> -->
 <div class="navbar_all">
     <div class="logo"></div>
     <div class="nav_links">

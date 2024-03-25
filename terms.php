@@ -22,9 +22,9 @@
 
     <section>
         <div class="about_aall">
-            <h1>Ogazy Car Rental Terms and Conditions</h1>
+            <h1>Ogazy G. Car Rental Terms and Conditions</h1>
             <p>
-                Welcome to Ogazy Car Rental! Before proceeding with your reservation, please take a moment to review our terms and conditions outlined below. These terms are designed to ensure a smooth and enjoyable rental experience for all our customers. If you have any questions or concerns, our dedicated team is here to assist you. Thank you for choosing Ogazy Car Rental.
+                Welcome to Ogazy G. Car Rentals! Prior to confirming your reservation, please take a moment to familiarize yourself with our terms and conditions outlined below. These guidelines are designed to ensure a seamless and pleasant rental experience for all our valued customers. Should you have any inquiries or require assistance, our dedicated team is readily available to assist you. Thank you for selecting Ogazy G. Car Rentals for your travel needs.
             </p>
             <ol>
                 <li>Reservations subject to availability, made online or via phone.</li>

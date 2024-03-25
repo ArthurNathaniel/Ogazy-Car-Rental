@@ -18,7 +18,7 @@
                 <p>Car Rental Service</p>
             </div>
             <div class="hero_middle">
-                <h1>Rent The Best Quality Car's With Us </h1>
+                <h1>Welcome to Ogazy G. Car Rental</h1>
             </div>
             <div class="hero_bottom">
                 <button>
@@ -58,20 +58,22 @@
 
             <div class="about_us_all">
                 <div class="about_text">
-                    <h4>About us - <span>Ogazy Car Rentals</span></h4>
-                    <h1>We are Providing Best Car Rental Services</h1>
+                    <h1>About us - <span>Ogazy G. Car Rentals</span></h1>
                 </div>
                 <div class="about_p">
                     <p>
-                        Welcome to Ogazy Car Rental, your premier destination for reliable and affordable vehicle rentals. At Ogazy, we pride ourselves on offering top-notch customer service and a wide selection of vehicles to meet your transportation needs. </p>
+                        Located conveniently at the Kumasi Airport Roundabout near the DVLA Office, Ogazy G. Car Rental is your premier destination for reliable and efficient car rental services in Kumasi and its surroundings. With a commitment to excellence and a passion for delivering exceptional customer experiences, Ogazy G. Car Rental has established itself as a trusted name in the industry.
+                    </p>
                 </div>
                 <div class="about_p">
                     <p>
-                        With our convenient online booking system, you can easily reserve the perfect car for your next adventure or business trip. Whether you're looking for a compact car for city exploration, a spacious SUV for a family vacation, or a sleek luxury vehicle for a special occasion, we have the right ride for you. </p>
+                        At Ogazy G. Car Rental, we understand that every journey is unique, and we strive to cater to the diverse needs and preferences of our customers. Whether you're a business traveler in need of a sleek sedan for your corporate meetings, a family embarking on a memorable vacation, or an adventurer seeking to explore the scenic landscapes of Kumasi, our extensive fleet has the perfect vehicle for you.
+                    </p>
                 </div>
                 <div class="about_p">
                     <p>
-                        Our fleet is regularly serviced and meticulously maintained to ensure your safety and comfort on the road. Plus, we offer flexible rental terms and competitive rates to fit any budget. </p>
+
+                    </p>
                 </div>
                 <div class="about_btn">
                     <button>
@@ -100,9 +102,7 @@
                             <h2>GHC 1000 <span>/day</span></h2>
                         </div>
                         <div class="explore_car_info">
-                            <div class="transmission">
-                                <p>20K</p>
-                            </div>
+                            
                             <div class="transmission">
                                 <p>Auto</p>
                             </div>
@@ -130,102 +130,7 @@
                             <h2>GHC 1000 <span>/day</span></h2>
                         </div>
                         <div class="explore_car_info">
-                            <div class="transmission">
-                                <p>20K</p>
-                            </div>
-                            <div class="transmission">
-                                <p>Auto</p>
-                            </div>
-                            <div class="transmission">
-                                <p>Petrol</p>
-                            </div>
-                        </div>
-                        <div class="explore_book">
-                            <button>
-                                <a href="reservation.php">MAKE RESERVATION</a>
-
-                            </button>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="explore_card">
-                    <div class="explore_car_image">
-
-                    </div>
-                    <div class="explore_details">
-                        <div class="explore_car_title">
-                            <h3>Honda Accord 5 Seater Car</h3>
-                        </div>
-                        <div class="explore_price">
-                            <h2>GHC 1000 <span>/day</span></h2>
-                        </div>
-                        <div class="explore_car_info">
-                            <div class="transmission">
-                                <p>20K</p>
-                            </div>
-                            <div class="transmission">
-                                <p>Auto</p>
-                            </div>
-                            <div class="transmission">
-                                <p>Petrol</p>
-                            </div>
-                        </div>
-                        <div class="explore_book">
-                            <button>
-                                <a href="reservation.php">MAKE RESERVATION</a>
-
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div class="explore_card">
-                    <div class="explore_car_image">
-
-                    </div>
-                    <div class="explore_details">
-                        <div class="explore_car_title">
-                            <h3>Honda Accord 5 Seater Car</h3>
-                        </div>
-                        <div class="explore_price">
-                            <h2>GHC 1000 <span>/day</span></h2>
-                        </div>
-                        <div class="explore_car_info">
-                            <div class="transmission">
-                                <p>20K</p>
-                            </div>
-                            <div class="transmission">
-                                <p>Auto</p>
-                            </div>
-                            <div class="transmission">
-                                <p>Petrol</p>
-                            </div>
-                        </div>
-                        <div class="explore_book">
-                            <button>
-                                <a href="reservation.php">MAKE RESERVATION</a>
-
-                            </button>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="explore_card">
-                    <div class="explore_car_image">
-
-                    </div>
-                    <div class="explore_details">
-                        <div class="explore_car_title">
-                            <h3>Honda Accord 5 Seater Car</h3>
-                        </div>
-                        <div class="explore_price">
-                            <h2>GHC 1000 <span>/day</span></h2>
-                        </div>
-                        <div class="explore_car_info">
-                            <div class="transmission">
-                                <p>20K</p>
-                            </div>
+                            
                             <div class="transmission">
                                 <p>Auto</p>
                             </div>
@@ -255,9 +160,94 @@
                             <h2>GHC 1000 <span>/day</span></h2>
                         </div>
                         <div class="explore_car_info">
+                            
                             <div class="transmission">
-                                <p>20K</p>
+                                <p>Auto</p>
                             </div>
+                            <div class="transmission">
+                                <p>Petrol</p>
+                            </div>
+                        </div>
+                        <div class="explore_book">
+                            <button>
+                                <a href="reservation.php">MAKE RESERVATION</a>
+
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="explore_card">
+                    <div class="explore_car_image">
+
+                    </div>
+                    <div class="explore_details">
+                        <div class="explore_car_title">
+                            <h3>Honda Accord 5 Seater Car</h3>
+                        </div>
+                        <div class="explore_price">
+                            <h2>GHC 1000 <span>/day</span></h2>
+                        </div>
+                        <div class="explore_car_info">
+                            
+                            <div class="transmission">
+                                <p>Auto</p>
+                            </div>
+                            <div class="transmission">
+                                <p>Petrol</p>
+                            </div>
+                        </div>
+                        <div class="explore_book">
+                            <button>
+                                <a href="reservation.php">MAKE RESERVATION</a>
+
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="explore_card">
+                    <div class="explore_car_image">
+
+                    </div>
+                    <div class="explore_details">
+                        <div class="explore_car_title">
+                            <h3>Honda Accord 5 Seater Car</h3>
+                        </div>
+                        <div class="explore_price">
+                            <h2>GHC 1000 <span>/day</span></h2>
+                        </div>
+                        <div class="explore_car_info">
+                            
+                            <div class="transmission">
+                                <p>Auto</p>
+                            </div>
+                            <div class="transmission">
+                                <p>Petrol</p>
+                            </div>
+                        </div>
+                        <div class="explore_book">
+                            <button>
+                                <a href="reservation.php">MAKE RESERVATION</a>
+
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="explore_card">
+                    <div class="explore_car_image">
+
+                    </div>
+                    <div class="explore_details">
+                        <div class="explore_car_title">
+                            <h3>Honda Accord 5 Seater Car</h3>
+                        </div>
+                        <div class="explore_price">
+                            <h2>GHC 1000 <span>/day</span></h2>
+                        </div>
+                        <div class="explore_car_info">
+                            
                             <div class="transmission">
                                 <p>Auto</p>
                             </div>
@@ -280,91 +270,7 @@
         </div>
     </section>
 
-    <section>
-        <div class="testiomonial_all">
-            <div class="testimonial_title">
-                <h1>What Our Clients Say</h1>
-            </div>
 
-            <div class="testimonial_slide">
-                <div class="swiper mySwiper2">
-                    <div class="swiper-wrapper ">
-                        <div class="swiper-slide">
-                            <div class="testimonial_box">
-                                <div class="name">
-                                    <h4>Nathaniel Arthur</h4>
-                                </div>
-                                <div class="message">
-                                    Dynamically unleash market positioning convergence for scalable infrastructure Rapidly virtual infrastructures rather than market-driven items. without resourceleveling process improvement.
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="testimonial_box">
-                                <div class="name">
-                                    <h4>Nathaniel Arthur</h4>
-                                </div>
-                                <div class="message">
-                                    Dynamically unleash market positioning convergence for scalable infrastructure Rapidly virtual infrastructures rather than market-driven items. without resourceleveling process improvement.
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <div class="testimonial_box">
-                                <div class="name">
-                                    <h4>Nathaniel Arthur</h4>
-                                </div>
-                                <div class="message">
-                                    Dynamically unleash market positioning convergence for scalable infrastructure Rapidly virtual infrastructures rather than market-driven items. without resourceleveling process improvement.
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <div class="testimonial_box">
-                                <div class="name">
-                                    <h4>Nathaniel Arthur</h4>
-                                </div>
-                                <div class="message">
-                                    Dynamically unleash market positioning convergence for scalable infrastructure Rapidly virtual infrastructures rather than market-driven items. without resourceleveling process improvement.
-                                </div>
-                            </div>
-                        </div>
-
-
-                    </div>
-
-                </div>
-            </div>
-
-        </div>
-    </section>
-
-    <section>
-        <div class="why_all">
-            <div class="why_text">
-                <h1>WHY CHOOSE US - Ogazy CAR RENTALS</h1>
-                <p>
-                    Ogazy Car Rental stands out for its commitment to providing customers with exceptional service and a seamless
-                    rental experience. With a wide selection of vehicles ranging from economy cars to luxury SUVs, Ogazy Car Rental
-                    caters to diverse needs and preferences.Their efficient booking process, transparent pricing, and flexible rental options make them a preferred choice for
-                    travelers seeking reliability and convenience.
-                </p>
-                <p>
-                    Moreover, Ogazy Car Rental prioritizes customer satisfaction, ensuring that each vehicle
-                    is well-maintained and equipped with the latest safety features, providing peace of mind to renters. Whether for business trips or leisure travel, choosing
-                    Ogazy Car Rental guarantees a stress-free and enjoyable journey.
-                </p>
-            </div>
-            <div class="why_images">
-
-            </div>
-        </div>
-    </section>
 
     <section>
         <div class="contact_all">
@@ -375,7 +281,7 @@
                 <div class="box">
                     <h1>Call</h1>
                     <p>+233 24 910 3331 </p>
-                   
+
                 </div>
                 <div class="box">
                     <h1>Mail</h1>
